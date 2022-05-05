@@ -80,4 +80,4 @@ ___
 <a href="https://github.com/Bateyjosue/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Bateyjosue">
 </a>
-<a href="https://github.com/Bateyjosue?tab=followers"><img src="https://img.shields.io/github/followers/<bateyjosue?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Bateyjosue?tab=followers"><img src="https://img.shields.io/github/followers/<Bateyjosue?label=Followers&style=social" alt="GitHub Badge"></a>
