@@ -9,7 +9,7 @@
 
 - 👯 I work diligently as an individual and as a team member. I develop professional desktop, web, and mobile applications. My tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications
   
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Django Rest Framework and React**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
