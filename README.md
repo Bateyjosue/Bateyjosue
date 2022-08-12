@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Josh Batey</h1>
-<h3 align="center">A passionate Full-stack Python developer from Congo DRC</h3>
+<h3 align="center">A passionate Full-stack Python developer from Congo DR-Congo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bateyjosue&label=Profile%20views&color=0e75b6&style=flat" alt="bateyjosue" /> </p>
-
-<p align="center" display="flex">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bateyjosue&theme=matrix" alt="bateyjosue" />
+<p align="center" display="flex" width="100%">
+  <a href="https://github.com/bateyjosue/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bateyjosue&theme=matrix&row=1&margin-h=5" alt="bateyjosue" />
    </a> 
  </p>
 
 <p align="left"> 
   <a href="https://twitter.com/josuebatey" target="blank">
     <img src="https://img.shields.io/twitter/follow/josuebatey?logo=twitter&style=for-the-badge" alt="josuebatey" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=bateyjosue" target="blank">
+    <img src="https://komarev.com/ghpvc/?username=bateyjosue&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bateyjosue" /> 
   </a>
 </p>
 
@@ -23,7 +24,7 @@
 
 - 📫 How to reach me **josuebatey19@gmail.com**
 
-- ⚡ Fun fact **I Can Danse pretty Well Hip-hop** 
+- ⚡ Fun fact **I Can Danse pretty Well Hip-hop**
 <br><br>![giphy](https://thumbs.gfycat.com/CloseFearfulHamster-size_restricted.gif)
 
 <h3 align="left">Connect with me:</h3>
