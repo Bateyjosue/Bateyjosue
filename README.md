@@ -22,6 +22,8 @@
 
 - 💬 Ask me about **Python, Django, HTML, CSS, Js Core**
 
+- ⌨️ Open to new job opportunities.
+
 - 📫 How to reach me **josuebatey19@gmail.com**
 
 - ⚡ Fun fact **I Can Danse pretty Well Hip-hop**
