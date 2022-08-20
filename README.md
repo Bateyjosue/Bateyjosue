@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="/batey-banner.png" width="100%">
+  ![](https://github.com/Bateyjosue/Bateyjosue/blob/main/Batey.gif)
 </h1>
-
-
 <p align="center" display="flex" width="100%">
   <a href="https://github.com/bateyjosue/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bateyjosue&theme=matrix&row=1&margin-h=5" alt="bateyjosue" />
