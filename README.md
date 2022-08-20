@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Josh Batey</h1>
-<h3 align="center">A passionate Full-stack Python developer from Congo DR-Congo</h3>
-![](https://github.com/Bateyjosue/Bateyjosue/blob/main/batey-banner.png)
+<h1 align="center">
+  <img src="/batey-banner.png" width="100%">
+</h1>
+
 
 <p align="center" display="flex" width="100%">
   <a href="https://github.com/bateyjosue/github-profile-trophy">
