@@ -83,7 +83,7 @@
 
 <p align="center">
   <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=bateyjosue&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,html" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=bateyjosue&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8" 
     alt="bateyjosue" />
 </p>
 
