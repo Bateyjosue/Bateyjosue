@@ -1,5 +1,5 @@
 <h1 align="center">
- ![batey](https://github.com/Bateyjosue/Bateyjosue/blob/main/Batey.gif)
+ <img src="/batey-banner.png" width="100%">
 </h1>
 <p align="center" display="flex" width="100%">
   <a href="https://github.com/bateyjosue/github-profile-trophy">
