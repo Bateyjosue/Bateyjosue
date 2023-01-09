@@ -1,12 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
  <img src="https://github.com/Bateyjosue/Bateyjosue/blob/main/Batey.gif" width="100%">
-</h1>
-<p align="center" display="flex" width="100%">
-  <a href="https://github.com/bateyjosue/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bateyjosue&theme=matrix&row=1&margin-h=5" alt="bateyjosue" />
-   </a> 
- </p>
-
+</h1> -->
 <p align="left"> 
   <a href="https://twitter.com/josuebatey" target="blank">
     <img src="https://img.shields.io/twitter/follow/josuebatey?logo=twitter&style=for-the-badge" alt="josuebatey" />
@@ -15,7 +9,11 @@
     <img src="https://komarev.com/ghpvc/?username=bateyjosue&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bateyjosue" /> 
   </a>
 </p>
-
+<div align="center">
+ <h1>Hi, I'm Josue Batey</h1>
+ 
+I'm a Software Developer. Specialized in Javascript | Python | Django | React | Redux | Ruby | Ruby on Rails. NLP Engineer. In love with pair programming, Open to New Job Opportunitie
+ </div>
 - 🔭 I’m currently working on [AMR OCR](https://github.com/Bateyjosue/mark-recordingUsingOCR)
 
 - 🌱 I’m currently learning **React, Ruby, Ruby on Rails,**
