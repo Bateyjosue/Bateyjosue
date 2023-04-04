@@ -100,30 +100,8 @@ I'm a Software Developer. Specialized in Javascript | Python | Django | React | 
   </tr>
 </table>
 
-<h3 align="left">Support:</h3>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/joshbatey"> 
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-        height="50" 
-        width="210" 
-        alt="https://www.buymeacoffee.com/joshbatey" />
-      </a>
-    <a href="https://ko-fi.com/https://ko-fi.com/joshbatey"> 
-        <img align="center" 
-            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" 
-            height="50" width="210" 
-            alt="https://ko-fi.com/joshbatey" />
-     </a>
-</p>
 <table>
 <tr>
- <td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bateyjosue&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8" 
-    alt="bateyjosue" />
- </td>
- <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bateyjosue&show_icons=true&locale=en&theme=dark" alt="bateyjosue" />
- </td>
  <td>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bateyjosue&theme=dark" alt="bateyjosue" />
  </td>
