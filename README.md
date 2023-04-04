@@ -100,10 +100,10 @@ I'm a Software Developer. Specialized in Javascript | Python | Django | React | 
   </tr>
 </table>
 
-<table>
-<tr>
- <td>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bateyjosue&theme=dark" alt="bateyjosue" />
- </td>
-</tr>
+<table align="center">
+ <tr>
+  <td>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bateyjosue&theme=dark" alt="bateyjosue" />
+  </td>
+ </tr>
 </table>
