@@ -53,7 +53,7 @@ Javascript | React | Redux | Ruby | Ruby on Rails | Python | Django | AI Enthusi
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
  <table>
   <thead>
     <td>Languages</td>
@@ -64,32 +64,25 @@ Javascript | React | Redux | Ruby | Ruby on Rails | Python | Django | AI Enthusi
     <td class="Lang">
     <img align="left" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
     <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="left" alt="Java" src="https://img.shields.io/badge/Java-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=white" />
-    <img align="left" alt="PHP" src="https://img.shields.io/badge/php-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="left" alt="C" src="https://img.shields.io/badge/c-%2314354C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%2314354C.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%2314354C.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="left" alt="Matlab" src="https://img.shields.io/badge/Matlab-%2314354C.svg?style=for-the-badge&logo=Matlab&logoColor=white" />
     <img align="left" alt="SQL" src="https://img.shields.io/badge/sql-%2314354C.svg?style=for-the-badge&logo=sql&logoColor=white" />
+    <img align="left" alt="RUBY" src="https://img.shields.io/badge/ruby-%2314354C.svg?style=for-the-badge&logo=ruby&logoColor=white" />
     </td>
     <td class="frameworks">
-    <img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%2314354C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="left" alt="Django" src="https://img.shields.io/badge/django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img align="left" alt="React" src="https://img.shields.io/badge/react-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white" />
-    <img align="left" alt="sass" src="https://img.shields.io/badge/sass-%2314354C.svg?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="left" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2314354C.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img align="left" alt="OpenCV" src="https://img.shields.io/badge/opencv-%2314354C.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img align="left" alt="rails" src="https://img.shields.io/badge/react-%2314354C.svg?style=for-the-badge&logo=rails&logoColor=white" />
+    <img align="left" alt="TAILWINDCSS" src="https://img.shields.io/badge/tailwindcss-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     </td>
     <td class="tools">
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+      
     </td>
   </tr>
 </table>
