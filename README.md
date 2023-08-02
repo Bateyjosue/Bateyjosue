@@ -1,20 +1,17 @@
-<!-- <h1 align="center">
- <img src="https://github.com/Bateyjosue/Bateyjosue/blob/main/Batey.gif" width="100%">
-</h1> -->
-<p align="left"> 
-  <a href="https://twitter.com/josuebatey" target="blank">
-    <img src="https://img.shields.io/twitter/follow/josuebatey?logo=twitter&style=for-the-badge" alt="josuebatey" />
-  </a>
+
+<p align="center"> 
   <a href="https://komarev.com/ghpvc/?username=bateyjosue" target="blank">
     <img src="https://komarev.com/ghpvc/?username=bateyjosue&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bateyjosue" /> 
   </a>
 </p>
 <div align="center">
  <h1>Hi, I'm Josue Batey</h1>
- 
-I'm a Software Developer. Specialized in Javascript | Python | Django | React | Redux | Ruby | Ruby on Rails. NLP Engineer. In love with pair programming, Open to New Job Opportunitie
+  <h3 font="bold">Software Engineer</h3>
+  <h4>
+Javascript | React | Redux | Ruby | Ruby on Rails | Python | Django | AI Enthusiast.
+  </h4>
+  <h2></h2>
  </div>
-- 🔭 I’m currently working on [AMR OCR](https://github.com/Bateyjosue/mark-recordingUsingOCR)
 
 - 🌱 I’m currently learning **React, Ruby, Ruby on Rails,**
 
@@ -24,11 +21,8 @@ I'm a Software Developer. Specialized in Javascript | Python | Django | React | 
 
 - 📫 How to reach me **josuebatey19@gmail.com**
 
-- ⚡ Fun fact: **I can dance Hip-hop pretty well**
-<br><br>![giphy](https://thumbs.gfycat.com/CloseFearfulHamster-size_restricted.gif)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">You can reach me at :computer:</h3>
+<p align="center">
   <a href="https://twitter.com/josuebatey" target="blank">
     <img align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
