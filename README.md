@@ -72,17 +72,14 @@ Javascript | React | Redux | Ruby | Ruby on Rails | Python | Django | AI Enthusi
     <td class="frameworks">
     <img align="left" alt="Django" src="https://img.shields.io/badge/django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img align="left" alt="React" src="https://img.shields.io/badge/react-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white" />
-    <img align="left" alt="rails" src="https://img.shields.io/badge/react-%2314354C.svg?style=for-the-badge&logo=rails&logoColor=white" />
-    <img align="left" alt="TAILWINDCSS" src="https://img.shields.io/badge/tailwindcss-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img align="left" alt="rubyonrails" src="https://img.shields.io/badge/rubyonrails-%2314354C.svg?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+    <img align="left" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     </td>
     <td class="tools">
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-      
     </td>
   </tr>
 </table>
