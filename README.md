@@ -20,6 +20,7 @@ Javascript | React | Redux | Ruby | Ruby on Rails | Python | Django | AI Enthusi
 - ⌨️ Open to new job opportunities.
 
 - 📫 How to reach me **josuebatey19@gmail.com**
+- [![committers.top badge](https://user-badge.committers.top/rwanda/Bateyjosue.svg)](https://user-badge.committers.top/rwanda/Bateyjosue)
 
 <h3 align="left">You can reach me at :computer:</h3>
 <p align="center">
