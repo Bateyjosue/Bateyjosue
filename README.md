@@ -23,6 +23,7 @@ Javascript | React | Redux | Ruby | Ruby on Rails | Python | Django | AI Enthusi
 - [![committers.top badge](https://user-badge.committers.top/rwanda/Bateyjosue.svg)](https://user-badge.committers.top/rwanda/Bateyjosue)
 
 <h3 align="left">You can reach me at :computer:</h3>
+<img align='center' src='https://www.codewars.com/users/josuebatey/badges/large' alt="codewars">
 <p align="center">
   <a href="https://twitter.com/josuebatey" target="blank">
     <img align="center" 
