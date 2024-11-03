@@ -13,7 +13,7 @@ JavaScript /TypeScript | Nestjs | React | Redux | Ruby | Ruby on Rails | Python 
   <h2></h2>
  </div>
 
-- 🌱 I’m currently learning **Nodejs, Nestjs, Docker**
+- 🌱 I’m currently learning **SAP ABAP CAP with Nodejs**
 
 - 💬 Ask me about **JavaScript, TypeScript, All about Programming**
 
